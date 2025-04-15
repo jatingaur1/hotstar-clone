@@ -44,7 +44,7 @@ An earlier version of this project was initially prototyped using **HTML, CSS, a
 
 ## 📸 Preview
 
-*(Added screenshots of UI)*
+
 ![image](https://github.com/user-attachments/assets/ab6ebcd8-ad29-47b7-99ed-7e4dec770877)
 ![image](https://github.com/user-attachments/assets/15d677b2-5474-4730-b5c5-d0fd0c0b2cc3)
 ![image](https://github.com/user-attachments/assets/91de2d45-6639-4341-868b-bc5423a08360)
@@ -60,7 +60,7 @@ An earlier version of this project was initially prototyped using **HTML, CSS, a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hotstar-clone.git
+git clone https://github.com/jatingaur1/hotstar-clone.git
 
 # Navigate into the project folder
 cd hotstar-clone
