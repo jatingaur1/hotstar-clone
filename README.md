@@ -3,6 +3,9 @@
 A front-end clone of Hotstar built using **React.js**, designed to replicate the look and feel of a modern OTT streaming platform. This project focuses on responsive design, reusable components, and a clean, modular codebase.
 
 ---
+## 🔗 Live Demo
+
+👉 [View Live on Vercel](hotstar-clone-jade.vercel.app/).
 
 ## 🔄 Project Background
 
@@ -42,6 +45,14 @@ An earlier version of this project was initially prototyped using **HTML, CSS, a
 ## 📸 Preview
 
 *(Added screenshots of UI)*
+![image](https://github.com/user-attachments/assets/ab6ebcd8-ad29-47b7-99ed-7e4dec770877)
+![image](https://github.com/user-attachments/assets/15d677b2-5474-4730-b5c5-d0fd0c0b2cc3)
+![image](https://github.com/user-attachments/assets/91de2d45-6639-4341-868b-bc5423a08360)
+![image](https://github.com/user-attachments/assets/0cc0c549-7902-410b-ace2-d1d55af4523c)
+
+
+
+
 
 ---
 
